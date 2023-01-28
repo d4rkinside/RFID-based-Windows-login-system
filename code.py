@@ -60,7 +60,7 @@ while True:
                     print("Activate UNLOCK PROTOCOL")
                     ledg.value=True
 
-                    keyboard_layout.write("7540")
+                    keyboard_layout.write("your_password")
                     time.sleep(1)
                     ledg.value=False
 
